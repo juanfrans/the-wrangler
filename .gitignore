@@ -1,1 +1,4 @@
 src/apiKeys.py
+.gitignore
+__pychache__
+.DS_Store
